@@ -1,4 +1,4 @@
-# Apuntes-Security-and-Network-Managemen
+# Apuntes-Security-and-Network-Management
 Apuntes Security and Network Management
 UNIFi - Traducción al español, síntesis y ampliación
 
